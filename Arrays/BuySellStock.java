@@ -18,7 +18,6 @@ public class BuySellStock {
         }
         return maxProfit;
     }
-
     public static void main(String[] args) {
         int[] prices = {7, 4, 1, 5, 3, 6};
         int result = maxProfit(prices);

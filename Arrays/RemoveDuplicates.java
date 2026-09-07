@@ -13,7 +13,6 @@ public class RemoveDuplicates {
         }
         return index;
     }
-
     public static void main(String[] args) {
         int[] nums = {1,1,2,2};
         int result =removeDuplicates(nums);

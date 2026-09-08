@@ -26,7 +26,6 @@ public class RemovingMinAndMaxFromArray {
         int ans = Math.min(front, Math.min(back, bothSide));
         return ans;
     }
-
     public static void main(String[] args) {
         int[] nums = { 2, 10, 7, 5, 4, 1, 8, 6 };
 

@@ -13,7 +13,6 @@ public class RemovingMinAndMaxFromArray {
                 maxIndex = i;
             }
         }
-
         if (minIndex > maxIndex) {
             int temp = maxIndex;
             maxIndex = minIndex;

@@ -8,7 +8,7 @@ public class MaxAverageSubarray {
             sum += nums[i];
         }
             int maxSum = sum;
-    
+
 
         for(int i = k; i < nums.length; i++)
         {

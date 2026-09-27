@@ -29,4 +29,3 @@ public class MinSizeSubarraySum {
         int res = minSubArrayLen(target, nums);
         System.out.println(res);
     }
-}
